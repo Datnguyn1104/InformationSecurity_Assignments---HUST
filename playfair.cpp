@@ -174,6 +174,6 @@ int main() {
     
     string banMa = maHoa.maHoa(banRo);
     cout << "Ban ma: " << banMa << endl;
-    
+
     return 0;
 }
